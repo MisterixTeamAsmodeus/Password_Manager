@@ -1,4 +1,4 @@
-package com.misterixteam.asmodeus.passwordmanager;
+package com.misterixteam.asmodeus.password_manager;
 
 import org.junit.Test;
 

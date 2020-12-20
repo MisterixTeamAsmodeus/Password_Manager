@@ -1,4 +1,4 @@
-package com.misterixteam.asmodeus.passwordmanager;
+package com.misterixteam.asmodeus.password_manager;
 
 public class Encrypt {
     private static byte[] getInputBytes(String input) {
